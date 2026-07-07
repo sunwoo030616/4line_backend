@@ -1,41 +1,36 @@
 # 2024-4line-backend
 
-4호선톤 백앤드레포
+<div align=center>
+  <h3>likelion 12th 2024-line4thon</h3>
 
-## 🎯 Commit Convention
+<h3>2024 연합해커톤 4호선톤 : 16팀 백엔드 레포</h3> 
+우수상 수상 🏆
+</div>
 
-"태그:제목"의 형태이며, : 뒤에만 space가 있음에 유의합니다. ex) Feat: 메인페이지 추가
+## 🛠️ 기술 스택
 
-- `Feat`: 새로운 기능을 추가할 경우
-- `Fix`: 버그를 고친 경우
-- `Design`: CSS 등 사용자 UI 디자인 변경
-- `Docs`: 문서 수정
-- `!BREAKING CHANGE`: 커다란 API 변경의 경우 (ex API의 arguments, return 값의 변경, DB 테이블 변경, 급하게 치명적인 버그를 고쳐야 하는 경우)
-- `!HOTFIX`: 급하게 치명적인 버그를 고쳐야하는 경우
-- `Style`: 코드 포맷 변경, 세미 콜론 누락, 코드 수정이 없는 경우
-- `Refactor`: 프로덕션 코드 리팩토링, 새로운 기능이나 버그 수정없이 현재 구현을 개선한 경우
-- `Comment`: 필요한 주석 추가 및 변경
-- `Test`: 테스트 추가, 테스트 리팩토링(프로덕션 코드 변경 X)
-- `Chore`: 빌드 태스트 업데이트, 패키지 매니저를 설정하는 경우(프로덕션 코드 변경 X)
-- `Rename`: 파일 혹은 폴더명을 수정하거나 옮기는 작업만인 경우
-- `Remove`: 파일을 삭제하는 작업만 수행한 경우
+<div>
 
-## 💡 PR Convetion
+</div>
 
-ex) [🎨Design] #3 - 가로스크롤 개선
-[✨Feature] #3 - 모달팝업 개발
+## 📙 프로젝트 소개
 
-| 아이콘 | 코드                 | 설명                                         | 관련 태그         |
-| ------ | -------------------- | -------------------------------------------- | ----------------- |
-| ✨     | `:sparkles:`         | 새로운 기능 추가                             | `Feat`            |
-| 🐛     | `:bug:`              | 버그 수정                                    | `Fix`             |
-| 🎨     | `:art:`              | UI 개선, 코드 스타일링 변경 (코드 품질 개선) | `Design`, `Style` |
-| 💄     | `:lipstick:`         | UI, CSS 스타일링 추가 또는 변경              | `Design`          |
-| 📝     | `:memo:`             | 문서 수정                                    | `Docs`            |
-| 🚑     | `:ambulance:`        | 치명적인 버그 긴급 수정                      | `!HOTFIX`         |
-| ♻️     | `:recycle:`          | 코드 리팩토링                                | `Refactor`        |
-| ✅     | `:white_check_mark:` | 테스트 추가 또는 수정                        | `Test`            |
-| 🔧     | `:wrench:`           | 설정 파일 변경                               | `Chore`           |
-| 🔥     | `:fire:`             | 불필요한 파일 또는 코드 삭제                 | `Remove`          |
+<img width="1386" alt="스크린샷 2024-11-16 오후 11 53 58" src="https://github.com/user-attachments/assets/1ad66f53-5039-4168-a9e6-09104f549394">
+<img width="1386" alt="스크린샷 2024-11-16 오후 11 54 05" src="https://github.com/user-attachments/assets/b2be5025-1abf-43a3-8980-865dc22e1da6">
+<img width="1386" alt="스크린샷 2024-11-16 오후 11 54 12" src="https://github.com/user-attachments/assets/d57c8a5a-d6fd-4064-8b2f-415130ea31cb">
+<img width="1386" alt="스크린샷 2024-11-16 오후 11 54 18" src="https://github.com/user-attachments/assets/72d885fb-6f76-45a1-9987-357f01ccc7b2">
+<img width="1386" alt="스크린샷 2024-11-16 오후 11 54 25" src="https://github.com/user-attachments/assets/5a3b199a-708e-41f7-bb49-b3eda49ffc41">
+<img width="1386" alt="스크린샷 2024-11-16 오후 11 54 32" src="https://github.com/user-attachments/assets/66ab9c10-a48c-4bb0-b144-ef616f3942ba">
+<img width="1386" alt="스크린샷 2024-11-16 오후 11 54 39" src="https://github.com/user-attachments/assets/5ea6c411-9b97-4639-8716-a5c230212916">
+<img width="1386" alt="스크린샷 2024-11-16 오후 11 54 45" src="https://github.com/user-attachments/assets/2590c99d-a743-433c-8b59-1d04a9849c97">
+<img width="1386" alt="스크린샷 2024-11-16 오후 11 54 58" src="https://github.com/user-attachments/assets/b510f83f-d097-4904-b2b0-d6079aed5bfd">
+<br>
 
-test
+
+## 💡 백엔드 팀원 소개
+
+| 이름      | 개발분야      | 개인레포           | 역할          |
+| ------- | ----------- | ---------        | ----         |
+| 김진우   | BACK-END  |             | 여행정보게시판, 메인페이지 개발        |
+| 박선우   | BACK-END  |              | 여행동행게시판 개발            |
+| 서문지   | BACK-END  |[SEOMUNJI](https://github.com/SEOMUNJI)|회원가입, 로그인, 마이페이지 개발          |
